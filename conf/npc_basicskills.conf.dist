@@ -1,0 +1,13 @@
+[worldserver]
+
+###################################################################################################
+#	Basic Subclass Skills NPC
+###################################################################################################
+
+# Announce the module when the player logs in?
+# default = 1
+BasicSkillsNPC.Announce = 1
+
+# Enable random emotes for the NPC?
+#default = 1
+BasicSkillsNPC.EnableAI= 1
