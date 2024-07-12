@@ -1,6 +1,6 @@
 void AddBasicSkillsNPCScripts();
 
-void Addmod_npc_BasicSkillsScripts() 
+void Addmod_npc_basicskillsScripts() 
 {
     AddBasicSkillsNPCScripts();
 }
